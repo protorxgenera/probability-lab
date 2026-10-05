@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm (personal IDE state)
+.idea/
+
+# Lab (Astro), later
+node_modules/
+lab/dist/
+lab/.astro/
+
+# OS
+.DS_Store
+Thumbs.db
